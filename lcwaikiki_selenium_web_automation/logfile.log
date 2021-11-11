@@ -1,0 +1,12 @@
+2021-11-11 22:58:04,705 INFO  [Log] check_the_login() Successfully 
+2021-11-11 22:58:08,689 INFO  [Log] search_a_product() Successfully 
+2021-11-11 22:58:14,171 INFO  [Log] select_a_product() Successfully 
+2021-11-11 22:58:15,990 INFO  [Log] add_product_to_cart() Successfully 
+2021-11-11 22:58:19,756 INFO  [Log] go_to_cart() Successfully 
+2021-11-11 22:58:20,062 ERROR [Log] delete_the_product() Failed with cause : element not interactable
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-FBHESMKC', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51081}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b1c73c9b86e7076608d15c2cedf7ff8 
